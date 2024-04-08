@@ -1,0 +1,37 @@
+---
+title: "Blockchain GitBook"
+format:
+  html:
+    toc: true
+    theme:
+      light: flatly
+      dark: darkly
+    toc-depth: 2
+    number-sections: true
+    mermaid:
+      theme: forest
+    image: mc_cropped.png
+---
+
+# Exploring the Blockchain Ecosystem
+
+Welcome to "Exploring the Blockchain Ecosystem," a comprehensive guide designed to navigate you through the intricate world of cryptocurrencies. This book aims to equip you with a fundamental understanding of blockchain technology, the process of funding crypto with fiat, setting up exchange accounts, and diving deep into both major coins and the fascinating realm of altcoins.
+
+## Chapters
+
+- [Chapter 1: Funding Crypto with Fiat](chapter-01.html)
+- [Chapter 2: Setting Up Exchange Accounts](chapter-02.html)
+- [Chapter 3: Major Coins on Exchange](chapter-03.html)
+- [Chapter 4: Alt Coins on MetaMask Account](chapter-04.html)
+- [Chapter 5: Describe Types of Popular Alt Coins](chapter-05.html)
+- [Chapter 6: Case Study: Snowbank DAO, a Fork of Olympus](chapter-06.html)
+- [Chapter 7: Understanding Arbitrage in Cryptocurrency Markets](chapter-08.html)
+- [Chapter 8: Utilizing Bots for Cryptocurrency Arbitrage](chapter-09.html)
+
+
+## Who This Book Is For
+
+Whether you're a complete novice to the world of cryptocurrencies or a seasoned enthusiast looking to expand your knowledge, this book offers valuable insights and practical advice to help you navigate the blockchain ecosystem confidently.
+
+Let's embark on this exciting journey together, exploring the revolutionary impact of blockchain technology and how it's reshaping the financial landscape.
+

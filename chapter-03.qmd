@@ -1,0 +1,50 @@
+---
+title: "Major Coins "
+---
+
+# Major Coins on Exchange
+
+As you embark on your cryptocurrency journey, understanding the major coins available on exchanges is crucial. This chapter introduces you to the giants of the crypto world, focusing on their origins, technology, and the unique value they offer to the ecosystem.
+
+## Bitcoin (BTC)
+
+Bitcoin, the first cryptocurrency, was created by an anonymous person or group of people using the pseudonym Satoshi Nakamoto. It was introduced in a 2008 white paper titled "Bitcoin: A Peer-to-Peer Electronic Cash System."
+
+### Key Features:
+
+- **Decentralization**: Unlike traditional currencies, Bitcoin operates on a decentralized network of computers.
+- **Limited Supply**: The total supply of Bitcoin is capped at 21 million, making it a deflationary asset.
+- **Blockchain Technology**: Bitcoin transactions are recorded on a public ledger, ensuring transparency and security.
+
+## Ethereum (ETH)
+
+Developed by Vitalik Buterin and launched in 2015, Ethereum expanded on Bitcoin's capabilities by introducing smart contracts, enabling not just transactions but complex agreements and applications.
+
+### Key Features:
+
+- **Smart Contracts**: Self-executing contracts with the terms of the agreement directly written into code.
+- **Ethereum Virtual Machine (EVM)**: A powerful, decentralized computing engine that executes the code of smart contracts.
+- **Decentralized Applications (dApps)**: Applications that run on a blockchain, offering a wide range of services without the need for intermediaries.
+
+## Ripple (XRP)
+
+Ripple aims to facilitate real-time, cross-border payment systems. Its digital payment protocol operates differently from Bitcoin and Ethereum, focusing on fast and efficient financial transactions.
+
+### Key Features:
+
+- **Payment Settlement System**: Ripple's network is designed to enable instant and low-cost international payments.
+- **XRP Ledger**: An open-source blockchain that supports the issuance of digital assets and allows for the settlement of transactions in seconds.
+
+## Litecoin (LTC)
+
+Often referred to as the silver to Bitcoin's gold, Litecoin was created by Charlie Lee in 2011. It shares many similarities with Bitcoin but offers faster transaction times and a different hashing algorithm.
+
+### Key Features:
+
+- **Faster Transaction Times**: Aims to process a block every 2.5 minutes, compared to Bitcoin's 10 minutes.
+- **Scrypt Algorithm**: Uses a memory-hard, proof-of-work algorithm to secure the network.
+
+## Conclusion
+
+The cryptocurrencies mentioned above are just the tip of the iceberg. Each offers unique features and technologies that contribute to the diverse and dynamic landscape of the crypto world. As you continue to explore, remember that understanding these foundational assets is crucial for anyone looking to navigate the cryptocurrency exchanges effectively.
+
