@@ -1,0 +1,35 @@
+{
+  "blockchain-book.qmd": {
+    "blockchain-book.html": "cb3485d1"
+  },
+  "index.qmd": {
+    "index.html": "bc62288d"
+  },
+  "chapter-01.qmd": {
+    "chapter-01.html": "addcfcfe"
+  },
+  "chapter-05.qmd": {
+    "chapter-05.html": "e6d0f6d0"
+  },
+  "chapter-02.qmd": {
+    "chapter-02.html": "ed2c9590"
+  },
+  "chapter-03.qmd": {
+    "chapter-03.html": "c777ec78"
+  },
+  "chapter-04.qmd": {
+    "chapter-04.html": "a350b5c3"
+  },
+  "chapter-06.qmd": {
+    "chapter-06.html": "0fe0994b"
+  },
+  "chapter-07.qmd": {
+    "chapter-07.html": "1810bd7d"
+  },
+  "chapter-09.qmd": {
+    "chapter-09.html": "923688cb"
+  },
+  "chapter-08.qmd": {
+    "chapter-08.html": "8b2d0a00"
+  }
+}

@@ -1,0 +1,56 @@
+project:
+  type: website
+
+website:
+  title: "Blockchain GitBook"
+  image: "mc_cropped.png"
+  favicon: "mc_cropped.png"
+  open-graph: true
+  twitter-card: true
+  site-url: https://majesticcoding
+  repo-url: https://github.com/mattmajestic/blockchain-gitbook
+  repo-actions: [edit, issue]
+  page-navigation: true
+  
+  sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 3
+    contents:
+      - section: "Introduction"
+        contents:
+          - href: index.qmd
+            text: Get started
+      - section: "Major Coins"
+        contents:
+          - href: chapter-01.qmd
+            text: Funding with Fiat
+          - href: chapter-02.qmd
+            text: Setting Up Exchange
+          - href: chapter-03.qmd
+            text: Major Coins on Exchange
+      - section: "Alt Coins"
+        contents:
+          - href: chapter-04.qmd
+            text: Alt Coins on MetaMask
+          - href: chapter-05.qmd
+            text: Popular Alt Coins
+          - href: chapter-06.qmd
+            text: SnowBank Epic Rug Pull
+      - section: "Arbitrage"
+        contents:
+          - href: chapter-08.qmd
+            text: Overview
+          - href: chapter-09.qmd
+            text: Bots for Arbitrage
+      - section: "Summary"
+        contents:
+          - href: chapter-07.qmd
+            text: Importance of Blockchain
+            
+theme:
+  light: flatly
+  dark: darkly
+format:
+  html:
+    toc: true
