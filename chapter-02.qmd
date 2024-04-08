@@ -1,5 +1,5 @@
 ---
-title: "Setting Up Exchange Accounts"
+title: "Setting Up Exchange"
 ---
 
 # Setting Up Exchange Accounts

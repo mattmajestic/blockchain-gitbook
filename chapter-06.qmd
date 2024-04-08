@@ -1,8 +1,8 @@
 ---
-title: "Chapter 6: The Curious Case of Snowbank DAO and the Quest for DeFi Enlightenment"
+title: "The Curious Case of Snowbank DAO"
 ---
 
-# Chapter 6: The Curious Case of Snowbank DAO and the Quest for DeFi Enlightenment
+# The Curious Case of Snowbank DAO and the Quest for DeFi Enlightenment
 
 In the mystical lands of Decentralized Finance (DeFi), where the laws of traditional economics bend and twist in fascinating contortions, there emerged a tale so riveting that even the most stoic of blockchain historians couldn't resist a chuckle. This is the tale of Snowbank DAO, a noble attempt at conquering the volatile peaks of DeFi, and a cautionary yarn about the ever-lurking specter of rug pulls.
 

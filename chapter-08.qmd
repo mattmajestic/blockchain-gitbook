@@ -1,8 +1,8 @@
 ---
-title: "Chapter 8: Understanding Arbitrage in Cryptocurrency Markets"
+title: " Understanding Arbitrage"
 ---
 
-# Chapter 8: Understanding Arbitrage in Cryptocurrency Markets
+# Understanding Arbitrage in Cryptocurrency Markets
 
 Arbitrage, in the world of finance, refers to the simultaneous purchase and sale of an asset to profit from a difference in the price. It is a strategy that has been around for as long as markets have existed, yet the advent of cryptocurrency has introduced new dimensions to arbitrage opportunities and challenges.
 
